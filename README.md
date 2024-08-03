@@ -25,8 +25,4 @@ I'm passionate about learning and improving my coding skills. As a beginner, I'm
 ## Get in Touch
 Feel free to explore my projects and provide feedback. I'm always open to suggestions and collaboration. You can reach me through my GitHub profile.
 
-Thank you for visiting my GitHub!
-
----
-
-Feel free to customize this README further to match your preferences and style!
+Thank you for visiting my GitHub
