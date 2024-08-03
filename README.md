@@ -1,7 +1,3 @@
-Great! Here's a sample README for your GitHub account:
-
----
-
 # Welcome to My GitHub!
 
 Hi there! I'm a beginner in the world of coding and GitHub, and I'm excited to share my journey and projects with you. Here, you'll find some of my initial projects as I learn and grow in my programming skills.
